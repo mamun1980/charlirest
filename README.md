@@ -1,0 +1,1 @@
+curl -X POST -d "grant_type=password&username=admin&password=Mamun123" -u"WpDeIcpt5JPkP0oVtjVAI8r5ckGmbfbNqUllLGKc:pbkdf2_sha256$390000$3b7MnI0AxY78iH5Nj1tdaC$fqBHu57sGTwvDLHXOoordQwk8YZEvuKxmPqniBn6m0E=" http://localhost:8000/o/token/

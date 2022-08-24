@@ -1,0 +1,2 @@
+[behave]
+paths=apps/charliauth/tests/acceptance/features
